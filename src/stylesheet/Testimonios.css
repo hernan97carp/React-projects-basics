@@ -9,10 +9,21 @@
     box-shadow: 0px 3px 13px 1px rgb(0 0 0 / 9%)
   }
   .conteiner-text-testimonio{
+    
     text-align: center;
     padding: 40px;
+    font-family: Lato, sans-serif;
+    font-weight:400;
+    line-height: 1.5rem;
+  }
+  .name-testimonio{
+    font-size: 1.3rem;
   }
 
+  .cargo-testimonio{
+    font-size:1.3rem;
+    margin-top:15px;
+  }
 
 
 
