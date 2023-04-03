@@ -23,6 +23,13 @@
   .cargo-testimonio{
     font-size:1.3rem;
     margin-top:15px;
+    padding-bottom: 30px;
+  }
+  .text-testimonio{
+    font-size: 1.1rem;
+    text-align: justify;
+
+
   }
 
 
