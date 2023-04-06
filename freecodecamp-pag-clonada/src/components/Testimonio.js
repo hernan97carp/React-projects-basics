@@ -11,8 +11,8 @@ function Testimonio(props){
    alt={`foto de ${props.nombre}`}
    />
   <div className="conteiner-text-testimonio">
-    <p className="name-testimonio">{props.nombre} en {props.pais}</p>
-    <p className="cargo-testimonio">{props.cargo} en {props.empresa}</p>
+    <p className="name-testimonio"><strong>{props.nombre}</strong> en {props.pais}</p>
+    <p className="cargo-testimonio">{props.cargo} en <strong>{props.empresa}</strong></p>
    <p className="text-testimonio">"{props.testimonio}"</p>
   </div>
   </div>

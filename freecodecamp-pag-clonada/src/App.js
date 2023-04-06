@@ -15,6 +15,15 @@ function App() {
       empresa="Amazon"
       imagen="shawn"
       />
+         <Testimonio
+     nombre ="Sarah Chima"
+     cargo = "ingeniera de software"
+     testimonio= "freeCodeCamp fue la puerta de entrada a mi carrera como desarrollador de software. El plan de estudios bien estructurado llevó mis conocimientos de programación de un nivel de principiante total a un nivel muy seguro. Era todo lo que necesitaba para conseguir mi primer trabajo de desarrollador en una empresa increíble"
+     pais="Nigeria"
+     empresa="ChatDesk"
+     imagen="sarah"
+      />
+
      <Testimonio
      nombre ="Emma Bostian"
      cargo = "Ingeniera de Software en Spotify"
@@ -23,6 +32,7 @@ function App() {
      empresa="Spotify"
      imagen="emma"
       />
+      
      </div>
     </div>
   );
