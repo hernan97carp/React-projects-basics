@@ -9,7 +9,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
 <React.StrictMode>
     <App/>
     <FirstApp/>
-    <CounterApp value={10}/>
+    <CounterApp value={0}/>
     
 </React.StrictMode>
 
