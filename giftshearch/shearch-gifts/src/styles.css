@@ -38,12 +38,15 @@ input {
   padding: 10px 15px;
   width: 30%;
 }
+
+
 h1{
   font-size:3rem;
   font-family: sans-serif;
   text-shadow: 5px 16px 11px #b34f19;
   color: rgb(151, 16, 16);
   text-align: center;
+  box-sizing: content-box;
 }
 h2 {
   font-size: 2rem;
